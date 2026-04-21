@@ -9,7 +9,7 @@ MATLAB code accompanying the paper:
 ## Repository layout
 
 ```
-gmm-snr-misspecification/
+GMM-Variance-Misspecification/
 ├── Shared/                       shared utilities (GetScientistImageData, Scientists/)
 ├── FiniteSampleExperiment/       empirical K-means & EM finite-sample simulation
 ├── PopulationEM_GHQuadrature/    population-level EM via GH quadrature
